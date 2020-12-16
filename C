@@ -1,0 +1,14 @@
+
+# Veuillez saisir le message de validation pour vos modifications. Les lignes
+# commençant par '#' seront ignorées, et un message vide abandonne la validation.
+#
+# Sur la branche master
+# Votre branche est à jour avec 'github/master'.
+#
+# Modifications qui seront validées :
+#	modifié :         android/gradle.properties
+#	modifié :         lib/main.dart
+#	modifié :         lib/pages/Home.dart
+#	modifié :         pubspec.lock
+#	modifié :         pubspec.yaml
+#
